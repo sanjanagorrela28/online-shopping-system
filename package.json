@@ -1,0 +1,7 @@
+{
+  "name": "shoplite",
+  "version": "1.0.0",
+  "description": "ShopLite - Online Shopping System (UML mini project prototype)",
+  "scripts": { "test": "node test_shoplite.js" },
+  "license": "ISC"
+}
